@@ -1,5 +1,5 @@
-**Physics Game**
-#version 1.0#
+# Physics Game #
+**version 1.0**
 *Key press detection
 *Key movement
 *Physics bases movement
